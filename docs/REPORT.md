@@ -38,12 +38,12 @@ Eureka dashboard:
 
 Realizamos una petición a la web, y sigue funcionando todo correctamente, podemos ver como el account (3333) es el que nos devuelve la petición.
 
-Accounts (3333)
+Accounts (3333):
 ![Accounts (3333)](./capturas/accounts3333Request.png)
 
 ### 6. Can the web service provide information about the accounts again?. Why?
 El servicio de accounts sigue funcionando corrrectamente, y por lo tanto, podemos seguir obteniendo información de accounts.
 
-Petición de accounts
+Petición de accounts:
 ![Petición de accounts](./capturas/accountsRequest.png)
 
